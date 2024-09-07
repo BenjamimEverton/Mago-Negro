@@ -10,7 +10,7 @@ body {
     align-items: center; /* Centraliza os itens horizontalmente */
     justify-content: center; /* Centraliza os itens verticalmente */
     height: 120vh; /* Preenche a altura total da viewport */
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
 }
 
